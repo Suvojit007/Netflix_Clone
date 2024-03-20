@@ -507,4 +507,16 @@ footer .questions {
         font-size: 18px;
     }
 
+       .secImg img {
+        width: 63.132813vw;
+        position: relative;
+        z-index: 10;
+    }
+    .secImg video{
+       
+        width: 63.132813vw;
+
+    }
+
 }
+
